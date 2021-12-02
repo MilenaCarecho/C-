@@ -1,0 +1,15 @@
+C:\Users\mili_\Desktop\C#\serie\bin\Debug\net6.0\serie.exe
+C:\Users\mili_\Desktop\C#\serie\bin\Debug\net6.0\serie.deps.json
+C:\Users\mili_\Desktop\C#\serie\bin\Debug\net6.0\serie.runtimeconfig.json
+C:\Users\mili_\Desktop\C#\serie\bin\Debug\net6.0\serie.dll
+C:\Users\mili_\Desktop\C#\serie\bin\Debug\net6.0\ref\serie.dll
+C:\Users\mili_\Desktop\C#\serie\bin\Debug\net6.0\serie.pdb
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.csproj.AssemblyReference.cache
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.AssemblyInfoInputs.cache
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.AssemblyInfo.cs
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.csproj.CoreCompileInputs.cache
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.dll
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\ref\serie.dll
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.pdb
+C:\Users\mili_\Desktop\C#\serie\obj\Debug\net6.0\serie.genruntimeconfig.cache
